@@ -154,5 +154,12 @@ body {
         
     }
 }
+@media screen and (max-width: 600px) {
+    .left-colum, #right-colum { 
+        flex: 100%;
+        margin-bottom: 20px;
+        zoom: normal;
+    }
+}
 
 
