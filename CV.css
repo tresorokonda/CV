@@ -158,7 +158,6 @@ body {
     .left-colum, #right-colum { 
         flex: 1 0 100%;
         margin-bottom: 20px;
-        zoom: normal;
     
     }
 }
